@@ -23,10 +23,6 @@ Trained models to recognize hand gestures dynamically.
 Integrated real-time video input to analyze and interpret gestures.
 
 📥 Installation & Usage
-Clone the repository:
-git clone https://github.com/username/gesture-recognition.git
-
 Install dependencies:
-
 Run the application:
 python main.py
